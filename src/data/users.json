@@ -1,0 +1,15 @@
+[
+  { "username": "eric", "city": "madrid", "course": "web", "id": "1111" },
+  { "username": "alejandra", "city": "bilbao", "course": "ux", "id": "2222" },
+  { "username": "sergio", "city": "oviedo", "course": "web", "id": "3333" },
+  { "username": "john", "city": "barcelona", "course": "ux", "id": "4444" },
+  { "username": "sandra", "city": "sevilla", "course": "data", "id": "5555" },
+  { "username": "jose", "city": "valencia", "course": "data", "id": "6666" },
+  { "username": "sara", "city": "granada", "course": "web", "id": "7777" },
+  { "username": "pablo", "city": "córdoba", "course": "web", "id": "8888" },
+  { "username": "jonathan", "city": "alicante", "course": "ux", "id": "9999" },
+  { "username": "eric", "city": "barcelona", "course": "ux", "id": "1010" }
+
+]
+
+
